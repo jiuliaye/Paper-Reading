@@ -16,9 +16,7 @@
 
 The demonstration that DNA molecules can act as parallel processors to solve hard problems has excited interest in the possibility of developing molecular computers based on recombinant DNA techniques.
 
-<a name = "DNA分子回到原文"></a>
-
-[DNA分子](#DNA分子)可以作为并行处理器来解决难题，这一证明激发了人们对基于 DNA 重组技术开发分子计算机可能性的兴趣。
+DNA分子可以作为并行处理器来解决难题，这一证明激发了人们对基于 DNA 重组技术开发分子计算机可能性的兴趣。
 
 <a name = "并行处理器回到原文"></a>
 
@@ -482,39 +480,6 @@ DNA作为图灵机
 
 
 # 三、基础扩充
-
-<a name = "DNA分子"></a>
-
-## DNA分子
-
-[回到原文](#DNA分子回到原文)
-
-- DNA，Deoxyrido Nucleic Acid，其基本组成单位是deoxynucleotide，脱氧核苷酸
-
-  ![img_1](./img/img_1.bmp)
-
-- deoxynucleotide由碱基、脱氧核糖、磷酸 (H<sub>3</sub>PO<sub>4</sub>) 组成
-
-  ![img_2](./img/img_2.bmp)
-
-- 碱基，又称含氮碱基，是形成核苷（酸）的含氮化合物。碱基可以形成碱基对，且彼此堆叠，因此，它们是长链螺旋结构，例如脱氧核糖核酸（DNA）的重要组成部分。嘌呤：A、G，嘧啶：C、T（DNA）、U（RNA）。A-T（2个氢键）和 C-G（3个氢键）配对。DNA的碱基互补配对过程本质是个自发的热力学平衡过程，形成的双链DNA长度越长，热力学能越低，也就越稳定。
-
-- 基本数据
-
-  ![img_35](./img./img_35.png)
-
-  | 名词                     | 释义          |
-  | :----------------------- | ------------- |
-  | Base pairs               | 碱基对        |
-  | Sugar-Phosphate backbone | 糖 - 磷酸骨架 |
-  | Major groove             | 大沟          |
-  | Minor groove             | 小沟          |
-  | one helical turn         | 一个螺旋      |
-  | Helix pitch              | 螺旋螺距      |
-  | Axial rise               | 轴向上升      |
-  | Helix diameter           | 螺旋直径      |
-  
-  
 
 <a name = "并行处理器"></a>
 
