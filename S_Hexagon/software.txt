@@ -1,0 +1,23 @@
+WIN：
+PERDIX：
+    利用PERDIX软件设计了方形DNA线框纸( SQ )的草图
+
+SNUPI：
+    使用SNUPI对SQ折叠进行平衡配置的有限元分析结果，估计分子的均方根波动（RMSF）和溶液的总应变能（total strain energy）
+
+
+MAC：
+VMD：
+    分子动力学模拟可视化工具，使用VMD程序创建了处于平衡状态下的3-pair折叠的3D图像
+
+Image Lab v5.1:
+    测量各主带的RF值和强度百分比
+
+FreeCAD：
+    三维参数化建模软件（画图）
+
+UCSF Chimera：
+    PERDIX生成文件的可视化工具，是一个用于交互式可视化和分析分子结构和相关数据的程序，包括密度图、轨迹和序列对齐。
+
+caDNAno：
+    使用有 “蜂窝点阵”（honeycomb lattice）模块的caDNAno软件（http://cadnano.org）来设计六边形折纸结构。

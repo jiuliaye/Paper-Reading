@@ -12,7 +12,7 @@
 
 - 基本数据（以B型DNA分子为例）
 
-  <img src="./img./img_3.png" alt="i" style="zoom:33%;" />
+  <img src="./img/img_3.png" alt="i" style="zoom:33%;" />
 
   | 名词                     | 释义          |
   | :----------------------- | ------------- |
